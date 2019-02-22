@@ -1,0 +1,22 @@
+{
+  "name": "soundKeyboard",
+  "version": "1.0.0",
+  "description": "The rirst programm on a minimal Electron application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/electron/electron-quick-start",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "Stanislav",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^4.0.4"
+  }
+}
